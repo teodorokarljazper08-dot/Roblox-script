@@ -159,17 +159,17 @@ local L = Loader.new()
 
 L:Add("Blox Fruits",
     { 994732206 },
-    { "https://raw.githubusercontent.com/UserDevEthical/Loadstring/main/Loader.lua" }
+    { "https://raw.githubusercontent.com/teodorokarljazper08-dot/Roblox-script/main/Loader.lua" }
 )
 
 L:Add("Grow A Garden",
     { 7436755782 },
-    { "https://raw.githubusercontent.com/UserDevEthical/Loadstring/main/Loader.lua" }
+    { "https://raw.githubusercontent.com/teodorokarljazper08-dot/Roblox-script/main/Loader.lua" }
 )
 
 L:Add("99 Nights in the Forest",
     { 7326934954 },
-    { "https://raw.githubusercontent.com/UserDevEthical/Loadstring/main/Loader.lua" }
+    { "https://raw.githubusercontent.com/teodorokarljazper08-dot/Roblox-script/main/Loader.lua" }
 )
 
 --// ═══════════════════════════════════════
